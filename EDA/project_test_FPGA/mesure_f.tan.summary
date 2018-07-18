@@ -1,0 +1,66 @@
+--------------------------------------------------------------------------------------
+Timing Analyzer Summary
+--------------------------------------------------------------------------------------
+
+Type           : Worst-case tco
+Slack          : N/A
+Required Time  : None
+Actual Time    : 22.221 ns
+From           : fbaseCnt[4]
+To             : data_out[4]
+From Clock     : fx
+To Clock       : --
+Failed Paths   : 0
+
+Type           : Worst-case tpd
+Slack          : N/A
+Required Time  : None
+Actual Time    : 12.924 ns
+From           : sel1
+To             : data_out[3]
+From Clock     : --
+To Clock       : --
+Failed Paths   : 0
+
+Type           : Clock Setup: 'sysclk'
+Slack          : N/A
+Required Time  : None
+Actual Time    : 99.22 MHz ( period = 10.079 ns )
+From           : counter3[0]
+To             : counter3[24]
+From Clock     : sysclk
+To Clock       : sysclk
+Failed Paths   : 0
+
+Type           : Clock Setup: 'fx'
+Slack          : N/A
+Required Time  : None
+Actual Time    : 162.26 MHz ( period = 6.163 ns )
+From           : fxCntTemp[1]
+To             : fxCntTemp[30]
+From Clock     : fx
+To Clock       : fx
+Failed Paths   : 0
+
+Type           : Clock Hold: 'fx'
+Slack          : Not operational: Clock Skew > Data Delay
+Required Time  : None
+Actual Time    : N/A
+From           : fxCntTemp[26]
+To             : fxCnt[26]
+From Clock     : fx
+To Clock       : fx
+Failed Paths   : 32
+
+Type           : Total number of failed paths
+Slack          : 
+Required Time  : 
+Actual Time    : 
+From           : 
+To             : 
+From Clock     : 
+To Clock       : 
+Failed Paths   : 32
+
+--------------------------------------------------------------------------------------
+

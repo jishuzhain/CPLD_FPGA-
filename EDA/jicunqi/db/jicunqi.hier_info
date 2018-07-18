@@ -1,0 +1,5 @@
+|jicunqi
+clk => dout~reg0.CLK
+din => dout~reg0.DATAIN
+
+

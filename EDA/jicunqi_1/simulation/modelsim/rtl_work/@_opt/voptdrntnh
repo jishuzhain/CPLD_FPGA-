@@ -1,0 +1,49 @@
+m255
+K3
+13
+cModel Technology
+Z0 dG:\CPLD_FPGA\EDA\jicunqi_1\simulation\modelsim
+T_opt
+Z1 V?PMQ[ohD^U;1@Kd5cnFfk2
+Z2 04 15 4 work jicunqi_vlg_tst fast 0
+Z3 =1-000ae431a4f1-5818a069-6-1108
+Z4 o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L maxii_ver -L rtl_work -L work +acc
+Z5 n@_opt
+Z6 OL;O;10.0c;49
+Z7 dG:\CPLD_FPGA\EDA\jicunqi_1\simulation\modelsim
+vjicunqi
+Z8 IBmZGfk^CoN9B3Rini9f<22
+Z9 VNl_TFi:3ZH^5SzdKP[cP40
+R7
+Z10 w1464447658
+Z11 8G:/CPLD_FPGA/EDA/jicunqi_1/jicunqi.v
+Z12 FG:/CPLD_FPGA/EDA/jicunqi_1/jicunqi.v
+L0 2
+Z13 OL;L;10.0c;49
+r1
+31
+Z14 o-vlog01compat -work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z15 !s100 YKYoKem[S5kI7keZ4[OhM2
+!s85 0
+Z16 !s108 1478007774.016000
+Z17 !s107 G:/CPLD_FPGA/EDA/jicunqi_1/jicunqi.v|
+Z18 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+G:/CPLD_FPGA/EDA/jicunqi_1|G:/CPLD_FPGA/EDA/jicunqi_1/jicunqi.v|
+Z19 !s92 -vlog01compat -work work +incdir+G:/CPLD_FPGA/EDA/jicunqi_1 -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+vjicunqi_vlg_tst
+Z20 IJ4P_omM:o^o>0h7MVB=E81
+Z21 VL0c2]i6H]I<9H8aSj_h?<0
+R7
+Z22 w1464444788
+Z23 8G:/CPLD_FPGA/EDA/jicunqi_1/simulation/modelsim/jicunqi.vt
+Z24 FG:/CPLD_FPGA/EDA/jicunqi_1/simulation/modelsim/jicunqi.vt
+L0 28
+R13
+r1
+31
+R14
+Z25 !s100 <@1Ic<APz[XBNZY@C<aj81
+!s85 0
+Z26 !s108 1478007774.633000
+Z27 !s107 G:/CPLD_FPGA/EDA/jicunqi_1/simulation/modelsim/jicunqi.vt|
+Z28 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+G:/CPLD_FPGA/EDA/jicunqi_1/simulation/modelsim|G:/CPLD_FPGA/EDA/jicunqi_1/simulation/modelsim/jicunqi.vt|
+Z29 !s92 -vlog01compat -work work +incdir+G:/CPLD_FPGA/EDA/jicunqi_1/simulation/modelsim -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF

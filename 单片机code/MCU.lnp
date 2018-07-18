@@ -1,0 +1,4 @@
+"STARTUP.obj",
+"main.obj" 
+TO "MCU" 
+RAMSIZE(256) 
