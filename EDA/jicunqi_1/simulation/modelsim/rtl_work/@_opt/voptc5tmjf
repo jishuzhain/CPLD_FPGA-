@@ -1,4 +1,0 @@
-library verilog;
-use verilog.vl_types.all;
-entity jicunqi_vlg_tst is
-end jicunqi_vlg_tst;

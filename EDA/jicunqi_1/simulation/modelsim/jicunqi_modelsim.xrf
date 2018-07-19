@@ -1,8 +1,0 @@
-vendor_name = ModelSim
-source_file = 1, G:/CPLD_FPGA/EDA/jicunqi_1/jicunqi.v
-source_file = 1, G:/CPLD_FPGA/EDA/jicunqi_1/db/jicunqi.cbx.xml
-design_name = jicunqi
-instance = comp, clk_aI, clk, jicunqi, 1
-instance = comp, din_aI, din, jicunqi, 1
-instance = comp, dout_areg0, dout~reg0, jicunqi, 1
-instance = comp, dout_aI, dout, jicunqi, 1
